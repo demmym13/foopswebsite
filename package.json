@@ -1,0 +1,14 @@
+{
+  "name": "foops-website",
+  "version": "1.0.0",
+  "description": "FOOPs official website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moya Mauthoor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
