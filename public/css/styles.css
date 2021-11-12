@@ -119,7 +119,7 @@ nav img {
 }
 
 .parallax {
-  background-image: url("/public/images/Organ-Pipes-National-Park-@Wikimedia-Commons.jpg");
+  background-image: url("../images/Organ-Pipes-National-Park-@Wikimedia-Commons.jpg");
   min-height: 35%;
   background-attachment: fixed;
   background-position: center;
